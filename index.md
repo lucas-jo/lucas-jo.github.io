@@ -92,13 +92,17 @@ A visionary technology leader and R&D expert with 10+ years of experience in spe
 ### **Previous Professional Experience**
 
 ### **RADSONE** | *Senior Research Engineer* | *Jun 2015 – Sep 2016*
-*   **Ripplebuds Project**: Developed noise-blocking Bluetooth earbuds with an in-ear microphone using Neural Network-based multi-band equalizers.
+*   **Ripplebuds Project**: Analyzed the "occlusion effect" in-ear microphones and developed a restoration system using a Neural Network-trained multi-band equalizer.
+*   **airDAC Project**: Designed high-end Wi-Fi/USB DAC and headphone amplifier circuits; exhibited at the 2016 Munich High-end Show with critical acclaim.
 
 ### **EXTEGER** | **Co-founder** / *Senior Research Engineer* | *May 2014 – May 2015*
-*   Co-founded a hardware startup; optimized Class D Amplifier efficiency by 40% through PWM frequency shift algorithms.
+*   **Fabless Semiconductor Startup**: Co-founded a startup specializing in ASIC design for Class D amplifier PWM modulators; successfully supplied chips to **Samsung** and **LG**.
+*   **Algorithm Design**: Developed a click-free PWM switching frequency shift algorithm and an envelope-based PVDD control system, achieving 40% efficiency improvement.
 
 ### **PULSUS** | *Research Engineer* | *Mar 2010 – Apr 2014*
-*   **AATP**: Developed a real-time verification tool (C++/Qt). Implemented sound processing algorithms for SONY iPhone docking speakers (PS8645 ASIC).
+*   **ASIC Front-end Design (PS8645)**: Developed an integrated one-chip solution (USB/PWM/Class-D) adopted by **SONY** for iPhone docking speakers.
+*   **Digital Audio Engine**: Engineered a high-performance PWM engine using MATLAB simulations, improving THD by 20dB and achieving SNR > 115dB via digital PLL and noise-shaping.
+*   **AATP Platform**: Developed a real-time audio algorithm verification tool (C++/Qt) as a Winamp plugin for rapid DSP prototyping.
 
 ### **LG Telecom** | *Assistant Research Engineer* | *Feb 2007 – Aug 2008*
 *   Optimized EVDO rev.A wireless network coverage and throughput.
@@ -128,5 +132,5 @@ A visionary technology leader and R&D expert with 10+ years of experience in spe
 *   **Languages**: Korean (Native), English (Proficient).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTM0MzIxMF19
+eyJoaXN0b3J5IjpbMTEwMTczNTI0M119
 -->
