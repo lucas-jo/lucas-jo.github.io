@@ -57,6 +57,19 @@ A visionary technology leader and R&D expert with 10+ years of experience in spe
 
 ---
 
+## Public Speaking & Technical Education
+
+*   **Hanyang University (ASML Lab)** | *Invited Speaker*
+    *   **"Kaldi based ASR system"** (Aug 2019): Conducted a technical seminar on building production-grade ASR systems using Kaldi for the Audio, Speech and Machine Learning Lab. [[Link]](https://asmllab.hanyang.ac.kr/kor/page/bbs_view.php?idx=892&search_item=all&search_order=%EC%A1%B0%ED%83%9C%EC%98%81&code=labnews)
+    *   **"Data-driven Way of Korean LM Design"** (Feb 2018): Presented methodologies for optimizing Korean Language Models (LM) using data-driven approaches. [[Link]](https://asmllab.hanyang.ac.kr/kor/page/bbs_view.php?idx=723&search_item=all&search_order=%EC%A1%B0%ED%83%9C%EC%98%81&code=labnews)
+*   **FastCampus** | *Lead Instructor & Subject Matter Expert*
+    *   Developed and led two consecutive intensive professional courses (30 hours each, 10 sessions x 3 hours) on **Deep Learning-based Speech Recognition** and **Kaldi System Implementation**.
+    *   Featured in a technical interview regarding the impact of the **Zeroth Project** on the open-source Korean ASR community. [[Interview Article]](https://blog.naver.com/fastcampus/221181060609)
+*   **K-Mobile Academy** | *Invited Instructor*
+    *   **"Understanding Speech Recognition & Kaldi System Implementation"**: Led a specialized 1-day intensive workshop for industry professionals. [[Link]](https://www.kmobile.co.kr/shop/academy/%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EA%B8%B0%EC%88%A0%EC%9D%98-%EC%9D%B4%ED%95%B4-%EB%B0%8F-%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D-%EC%8B%9C%EC%8A%A4%ED%85%9Ckaldi-%EA%B5%AC%ED%98%84-1day-%EC%9B%8C/?ckattempt=1)
+
+---
+
 ### **Strategic Advisory & Global R&D (Social Impact)**
 
 ### **JW.org (WHQ MEMPS)** | *Jan 2024 – Present*
@@ -115,5 +128,5 @@ A visionary technology leader and R&D expert with 10+ years of experience in spe
 *   **Languages**: Korean (Native), English (Proficient).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDEzNzY4NF19
+eyJoaXN0b3J5IjpbMTExNTM0MzIxMF19
 -->
