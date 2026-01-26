@@ -1,5 +1,9 @@
 # TaeYoung Jo (Lucas Jo)
 
+<p align="center">
+  <img src="img/LucasFamily2024.png" width="600" alt="Lucas Jo Family 2024">
+</p>
+
 102-701, 230, Mokdong-ro, Yangcheon-gu, Seoul 08021, Korea  
 +82-10-8228-3458 | [jty016@gmail.com](mailto:jty016@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/lucasjo-2016/) | [GitHub](https://github.com/goodatlas)
