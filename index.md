@@ -110,7 +110,7 @@ I am uniquely positioned at the intersection of (1) low-level audio signal proce
 *   **Global Impact**: Leading "AI for Social Good" initiatives at **JW.org WHQ** for minority languages.
 
 ---
-*Updated based on NIW-verified technical evidence, 2026.*
+<!-- *Updated based on NIW-verified technical evidence, 2026.* -->
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0OTY0NTQxNzJdfQ==
