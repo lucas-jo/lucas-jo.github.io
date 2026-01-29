@@ -15,7 +15,7 @@
 **Architecting the Future of Voice Interface: Bridging Hardware-Level DSP with Agentic AI Orchestration.**  
 A visionary technology leader and R&D architect with 16+ years of multi-disciplinary expertise spanning from **Silicon-level Audio Engineering** to **Large-scale Cloud AI Systems**. 
 
-As the **CTO of Atlas Labs** (and Board Director at the US parent company, **Atlasguide**), I architected and scaled a 1M-user AI-telephony infrastructure (Switch), pioneering the integration of LLM-based agents with real-time VoIP stacks. I am the co-creator of the **Zeroth Project**, which established the **official Korean ASR baseline in the global Kaldi repository (SLR40)**—now an industry standard for Korean speech research. My current work at **JW.org World Headquarters (NY, USA)** involves leading global AI initiatives for low-resource languages, achieving breakthrough performance using Meta’s Omnilingual ASR and In-Context Learning (ICL). 
+As the **CTO of Atlas Labs** (and Board Director at the US parent company, **Atlasguide**), I architected and scaled a 1M-user AI-telephony infrastructure (Switch), pioneering the integration of LLM-based agents with real-time VoIP stacks. I am the co-creator of the **Zeroth Project**, which established the **official Korean ASR baseline in the global Kaldi repository (SLR40)**—now an industry standard for Korean speech research. My current work at **JW.org World Headquarters (NY, USA)** involves leading AI initiatives for low-resource languages, focusing on multilingual ASR improvements and scalable research infrastructure. Details are omitted to respect confidentiality.
 
 I am uniquely positioned at the intersection of (1) low-level audio signal processing, (2) high-availability cloud infrastructure, and (3) agentic AI orchestration, with a proven track record of solving high-complexity communication challenges at a global scale.
 
@@ -56,16 +56,17 @@ I am uniquely positioned at the intersection of (1) low-level audio signal proce
 
 ### **JW.org (WHQ MEMPS, New York, USA)** | *Jan 2024 – Present*
 *Collaborating with the World Headquarters (WHQ) to solve high-complexity language challenges for global non-profit initiatives.*
+*Public details are intentionally limited to honor confidentiality and IP ownership requirements.*
 
 #### **Micro Team Lead, AI Services** (*Jul 2025 – Present*)
-*   **Meta Omni ASR Breakthrough**: Led the adoption of **Meta’s Omnilingual ASR (7B ZS)**, leveraging **In-Context Learning (ICL)** to achieve a **30-35% CER improvement** in low-resource languages (e.g., Maya, Mixtec).
-*   **Scalable Data Pipeline**: Implemented a modern **WebDataset** integration for streamed access to massive audio datasets directly from **AWS S3**, enabling remote, high-efficiency training.
-*   **R&D Automation**: Automated research environment bootstrapping using **RunPod (GPU/CPU)** and **Azure DevOps (ADO)**, reducing setup time to minutes.
+*   **Multilingual ASR Initiatives**: Led low-resource language projects, improving accuracy through model adaptation and evaluation.
+*   **Scalable Data Pipeline**: Built scalable data pipelines for large audio corpora and research workflows.
+*   **R&D Automation**: Automated research environment provisioning to improve reproducibility and setup speed.
 
 #### **AI / Audio Engineer** (*Jan 2024 – Jun 2025*)
-*   **Serverless Audio Engine**: Architected a high-performance AWS Lambda-based API for real-time audio enhancement.
-*   **Layer Optimization**: Minimized package size by re-implementing **SciPy** dependencies using **NumPy** and optimizing **FFmpeg** wrappers for serverless execution.
-*   **Noise Suppression**: Integrated **Resemble Enhance** and developed 15+ environment presets (e.g., Palace, Phone Call, Large Hall) optimized for low-latency Lambda inference.
+*   **Serverless Audio Engine**: Architected serverless audio processing for real-time enhancement with latency and footprint optimization.
+*   **Runtime Optimization**: Reduced runtime dependencies and optimized packaging for serverless deployment reliability.
+*   **Noise Suppression**: Integrated noise suppression workflows and tuned environment presets for low-latency inference.
 
 ---
 
