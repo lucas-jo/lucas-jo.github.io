@@ -1,4 +1,4 @@
-# TaeYoung Jo (Lucas Jo)
+## Contacts
 
 <!-- <p align="center">
   <img src="img/LucasFamily2024.png" width="600" alt="Lucas Jo Family 2024">
