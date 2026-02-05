@@ -5,7 +5,7 @@
 </p> -->
 
 [jty016@gmail.com](mailto:jty016@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/lucasjo-2016/) | [GitHub](https://github.com/goodatlas)
+[LinkedIn](https://www.linkedin.com/in/lucasjo-2016/) | [GitHub](https://github.com/lucas-jo)
 
 ---
 
