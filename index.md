@@ -20,6 +20,23 @@ I am uniquely positioned at the intersection of (1) low-level audio signal proce
 
 ---
 
+## Project Portfolio (2017–Present)
+
+**Focus:** National-scale voice infrastructure, enterprise deployments, and humanitarian multilingual access.
+
+1. **Zeroth Open Source ASR (2017–2018)** — OpenSLR SLR40 Korean baseline, **357 GitHub stars**, 120 forks.
+2. **B2B ASR Market Development (2018–2019)** — Enterprise adoption: **Sorijava, PoscoICT, Mindwareworks, Yes24, Saltlux**.
+3. **Zeroth Decoder (2020–2022)** — Production-grade streaming ASR engine, **v2.5.8–v2.7.0** releases.
+4. **Switch AI‑Telephony Platform (2019–2024)** — **30M+ calls**, **10K+ daily calls**, 119 microservices on AWS EKS.
+5. **Japan Market Expansion (2020–2022)** — **FreeBit/IPSPRO** integration, 500% growth in JP traffic.
+6. **Sentroid Contact Center Analytics (2022–2024)** — Genesys Cloud integration; enterprise customers **Coupang, Amore Pacific, KCT**.
+7. **Rachel AI Voice Agent (2023–Present)** — Real‑time voice AI, Go backend, 50+ commits.
+8. **Acomm AI Platform (2025–Present)** — Hexagonal architecture; Vision‑first RAG; multimodal workflow engine.
+9. **AI Receptionist “Leah” (2024–Present)** — U.S. healthcare‑oriented telephony integration (Twilio/Daily).
+10. **JW.org OmniASR (2024–Present)** — Humanitarian project for **1,000+ low‑resource languages**.
+
+---
+
 ## Skills
 
 *   **Conversational AI & Agents**: Pipecat, LangGraph, MCP (Model Context Protocol), RAG, LLM Orchestration, Real-time Voice Agents (Project Leah).
